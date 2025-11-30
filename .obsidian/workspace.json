@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f35b438e0234abfe",
+            "id": "9f7c8b2c717c8daa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/Artifact/Secret Leakage via Artifact Upload.md",
+                "file": "GitHub/Dependabot Auto-merge Misconfiguration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secret Leakage via Artifact Upload"
+              "title": "Dependabot Auto-merge Misconfiguration"
+            }
+          },
+          {
+            "id": "fdb1c3537f0a19ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/OIDC Misconfiguration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OIDC Misconfiguration"
             }
           }
         ]
@@ -183,10 +197,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "f35b438e0234abfe",
+  "active": "fd5804259e066ffc",
   "lastOpenFiles": [
-    "GitHub/Branch Protection Bypass.md",
+    "CircleCI",
+    "GitHub/OIDC Misconfiguration.md",
+    "GitHub/Dependabot Auto-merge Misconfiguration.md",
+    "GitHub/Race Conditions in GitHub Actions Approval.md",
+    "GitHub/Self-Hosted GitHub Actions.md",
+    "GitHub/Artifact/Artifact Poisoning.md",
     "GitHub/Artifact/Secret Leakage via Artifact Upload.md",
+    "GitHub/Branch Protection Bypass.md",
     "GitHub/Artifact",
     "GitHub/Exploiting workflow_run.md",
     "GitHub/Issue Comment Injection.md",
